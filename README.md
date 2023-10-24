@@ -1,5 +1,3 @@
-# CREATE OWN ENUMERABLE APP
-
 <a name="readme-top"></a>
 
 <!-- TABLE OF CONTENTS -->
