@@ -3,7 +3,7 @@ require_relative 'app'
 class Main
   app = App.new
 
-  puts 'welcome to School Library App!'
+  puts 'welcome to Our School Library App!'
   puts 'Please choose an option by entering a number:'
 
   loop do
@@ -33,10 +33,10 @@ class Main
     when '6'
       app.show_rental
     when '7'
-      puts puts "Thank you for using this app!\n\n"
+      puts puts "Thanks for using this app!\n\n"
       break
     else
-      puts 'Incorrect choice, Please choose between 1 and 7'
+      puts 'Incorrect choice, Please choose a number between 1 and 7'
     end
   end
 end

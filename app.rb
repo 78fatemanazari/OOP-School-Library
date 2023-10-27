@@ -98,14 +98,14 @@ class App
 
   def create_rental
     if @books.empty?
-      puts 'Book list is empty please create a book first'
+      puts 'Book list is empty please first create a book!'
     else
-      puts 'Select a book from the following list by number'
+      puts 'Select a book from the following lists by number'
       books_list
       print '\nEnter book number: '
       book_id = gets.chomp.to_i
 
-      puts 'Select a person from the following list by number (not id)'
+      puts 'Select a person from the following lists by number (not id)'
       show_people
       print '\nEnter person number: '
       person_id = gets.chomp.to_i
