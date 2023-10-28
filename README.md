@@ -147,6 +147,7 @@ Run rubocop on your VS Code terminal.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FUTURE FEATURES -->
+- The app will preserve data
 
 ## 🔭 Future Features <a name="future-features"></a>
 
